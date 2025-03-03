@@ -1,0 +1,128 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    border: 1px solid black;
+    max-width: 1700px;
+    max-height: 430px;
+    
+}
+.Recommendations {
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.boxes {
+    display: flex;
+}
+.box1 {
+    width: 100%;
+    max-width: 390px;
+    height: 340px;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.image img {
+    width: 100%;
+    max-width: 370px;
+    height: 200px;
+    margin: 10px;
+    position: absolute;
+}
+
+.row {
+    background-color: yellow;
+    margin-left: 20px;
+    position: absolute;
+    margin-top: 200px;
+
+}
+.icon1 {
+    background-color: white;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 5px;
+}
+.rupee{
+    margin-top: 220px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.a1 {
+    margin-left: 20px;
+    font-size: 22px;
+}
+.a2 {
+    margin-left: 20px;
+    font-size: 22px;
+}
+
+.a4 {
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 10px;
+}
+.a5 {
+    margin-left: 300px;
+    font-size: 12px;
+    margin-top: -12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .box2 {
+    width: 100%;
+    max-width: 390px;
+    height: 380px;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.image1 img {
+    width: 100%;
+    max-width: 370px;
+    height: 230px;
+    margin: 10px;
+}
+.box3 {
+    width: 100%;
+    max-width: 390px;
+    height: 380px;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+.image2 img {
+    width: 100%;
+    max-width: 370px;
+    height: 230px;
+    margin: 10px;
+}
+.box4 {
+    width: 100%;
+    max-width: 390px;
+    height: 380px;
+    border: 1px solid black;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+.image3 img {
+    width: 100%;
+    max-width: 350px;
+    height: 200px;
+    margin: 10px;
+} */
+

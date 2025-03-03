@@ -1,9 +1,9 @@
 import React from "react";
-import  Cart from  './Cart.css';
+import  Cart from  './Cart';
 
 export default {
     title:"Components/Cart",
     compmonent:Cart,
 };
-
-export const Default njjjjgyuytttggg
+const Template=(args)=><Cart {...args}/>
+export const cart =Template.bind();;
