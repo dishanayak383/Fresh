@@ -71,23 +71,14 @@
     margin-top: -12px;
 }
 
-
-
-
-
-
-
-
-
-
-
-/* .box2 {
+.box2 {
     width: 100%;
     max-width: 390px;
-    height: 380px;
+    height: 340px;
     border: 1px solid black;
     margin-left: 30px;
     margin-top: 10px;
+     
 }
 .image1 img {
     width: 100%;
@@ -95,13 +86,44 @@
     height: 230px;
     margin: 10px;
 }
-.box3 {
+.icon2{
+    background-color: white;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 5px;
+}
+.rupee1 {
+    margin-top: 220px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.a6 {
+    margin-left: 20px;
+    font-size: 22px;
+    margin-top: 10px;
+}
+.a8 {
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 25px;
+}
+.a9 {
+    margin-left: 300px;
+    font-size: 12px;
+    margin-top: -12px;
+
+}
+.box3 { 
     width: 100%;
     max-width: 390px;
-    height: 380px;
+    height: 340px;
     border: 1px solid black;
     margin-left: 30px;
     margin-top: 10px;
+     
 
 }
 .image2 img {
@@ -110,13 +132,44 @@
     height: 230px;
     margin: 10px;
 }
+.icon3 {
+    background-color: white;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 5px;
+}
+.rupee2{
+    margin-top: 220px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.a10 {
+    margin-left: 20px;
+    font-size: 22px;
+    margin-top: 10px;
+
+}
+.a12 {
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 25px;
+}
+.a13 {
+    margin-left: 300px;
+    font-size: 12px;
+    margin-top: -10px;
+}
 .box4 {
     width: 100%;
     max-width: 390px;
-    height: 380px;
+    height: 340px;
     border: 1px solid black;
     margin-left: 30px;
     margin-top: 10px;
+     
 
 }
 .image3 img {
@@ -124,5 +177,34 @@
     max-width: 350px;
     height: 200px;
     margin: 10px;
-} */
+} 
+.icon3 {
+    background-color: white;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 5px;
+}
+.rupee4 {
+    margin-top: 220px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.a14 {
+    margin-left: 20px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+.a16 {
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 16px;
 
+}
+.a17{
+    margin-left: 300px;
+    font-size: 12px;
+    margin-top: -10px;
+}
