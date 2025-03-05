@@ -23,10 +23,59 @@ const Category =()=> {
                             <div className="b10">
                                 <div className="c1">Design UI ToDo App</div>
                                 <div className="c2">Friday, 08 July 2022</div>
-                                <div className="c3"></div>
+                                <div className="c3"><FaUsers /></div>
+                            </div>
+                            <div className="c4">Description:</div>
+                            <div className="c5">Design a simple home pages with clean layout and color based on the guidelines..</div>
+                            <div className="c6">Teams:</div>
+                            <div className="c8">
+                                <img src="https://e7.pngegg.com/pngimages/694/639/png-clipart-computer-icons-user-profile-female-symbol-miscellaneous-purple.png"/>
+                                <img src="https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"/>
+                                <img src="https://i.pinimg.com/1200x/26/44/4f/26444f66c8cfe2798e892a669e4df8cf.jpg"/>
+                                <img src="https://p.kindpng.com/picc/s/649-6490120_user-picture-in-circle-png-png-download-circle.png"/>
+                            </div>
+                            <div className="c9">Progress:
+                                <div className="g">
+                                    <div className="e2">
+                                        <div className="progress-circle"></div>
+                                    </div>
+                                    <div className="c10">78%</div>
+                                    
+                                </div>
+                            </div>
+                            <div className="bottom-line"></div>
+                        </div>
+                        <div className="b9">
+                            <div className="d1">
+                                <div className="d2">Wee</div>
+                                <div className="d3">Friday</div>
+
+                            </div>
+                            <div className="d4">Descr</div>
+                            <div className="d5">Meet page</div>
+                            <div className="d6">Team</div>
+                            <div className="d7">
+                                <img src="https://e7.pngegg.com/pngimages/694/639/png-clipart-computer-icons-user-profile-female-symbol-miscellaneous-purple.png"/>
+                                
+                            </div>
+                            <div className="d8"></div>
+                            <div className="bottom-line1"></div>
+                            
+                        </div>
+                        <div className="view">Completed</div>
+                        <div className="more">View More</div>
+                        <div className="box">
+                            <div className="side">
+                            <div className="line">
+                                <div className="client">
+                                    <div className="meeting">Meeting</div>
+                                    <div className="line1"></div>
+                                </div>
+                                <div className="today"></div>
                             </div>
                         </div>
-                        <div className="b9"></div>
+                        </div>
+                     
                          
                     
 
