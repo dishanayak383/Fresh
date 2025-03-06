@@ -68,10 +68,25 @@ const Category =()=> {
                             <div className="side">
                             <div className="line">
                                 <div className="client">
-                                    <div className="meeting">Meeting</div>
+                                    <div className="meeting">
+                                        <h3>Meeting with Client</h3>
+                                        <p>Redesign motion graphic..</p>
+                                        <div className="rightmark">
+                                            <img src="https://thumbs.dreamstime.com/b/green-check-mark-circle-vector-illustration-flat-design-isolated-green-check-mark-circle-flat-design-isolated-125098940.jpg"/>
+                                        </div>
+                                    </div>
                                     <div className="line1"></div>
                                 </div>
-                                <div className="today"></div>
+                                <div className="today">Today 11:25PM
+                                    <div className="image1"></div>
+                                </div>
+
+                            </div>
+                            
+                        </div>
+                        <div className="task">
+                            <div className="side1">
+                                <div className="draw"></div>
                             </div>
                         </div>
                         </div>
