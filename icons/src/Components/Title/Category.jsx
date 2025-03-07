@@ -3,6 +3,7 @@ import "./Category.css"
 import { FaCalendarAlt } from "react-icons/fa";
 import { IoMdNotificationsOutline } from "react-icons/io";
 import { FaUsers } from "react-icons/fa6";
+import { IoMdCheckmark } from "react-icons/io";
 
 const Category =()=> {
     return (
@@ -71,41 +72,82 @@ const Category =()=> {
                                     <div className="meeting">
                                         <h3>Meeting with Client</h3>
                                         <p>Redesign motion graphic..</p>
-                                        <div className="rightmark">
-                                            <img src="https://thumbs.dreamstime.com/b/green-check-mark-circle-vector-illustration-flat-design-isolated-green-check-mark-circle-flat-design-isolated-125098940.jpg"/>
-                                        </div>
                                     </div>
-                                    <div className="line1"></div>
+                                    <div className="rightmark">
+                                        <a className="check"><IoMdCheckmark /></a></div>
+                                    
+                                    
                                 </div>
-                                <div className="today">Today 11:25PM
-                                    <div className="image1"></div>
+                                <div className="line1"></div>
+                                <div className="today-img">
+                                <div className="today">Today 11:25PM</div>
+                                    <div className="imagess">
+                                        <img src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"/>
+                                    </div>
+                                    <div className="imagess1">
+                                        <img src="https://www.clipartmax.com/png/middle/258-2582267_circled-user-male-skin-type-1-2-icon-male-user-icon.png"/>
+                                    </div>
+                                
                                 </div>
 
                             </div>
-                            
+                            </div>    
                         </div>
-                        <div className="task">
+                        <div className="box11">
                             <div className="side1">
-                                <div className="draw"></div>
+                            <div className="line">
+                                <div className="client">
+                                    <div className="meeting1">
+                                        <h3>Task Explore NFT</h3>
+                                        <p>Explore design mobile UI..</p>
+                                    </div>
+                                    <div className="rightmark">
+                                        <a className="check"><IoMdCheckmark /></a></div>
+                                    
+                                    
+                                </div>
+                                <div className="line1"></div>
+                                <div className="today-img">
+                                <div className="today1">01 July 10:30 AM</div>
+                                    <div className="imagess">
+                                        <img src="https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-512.png"/>
+                                    </div>
+                                    <div className="imagess1">
+                                        <img src="https://www.clipartmax.com/png/middle/258-2582267_circled-user-male-skin-type-1-2-icon-male-user-icon.png"/>
+                                    </div>
+                                
+                                </div>
+
                             </div>
+                            </div>    
                         </div>
+                            <div className="new">
+                                <div className="create"> +  Create New</div>
                         </div>
-                     
-                         
-                    
-
                     </div>
-                    
-
-                    
                 </div>
-                
-            
-                    
             </div>
             <div className="b11"></div>
- 
-            <div className="a2"></div>
+            <div className="a2">
+                <div className="user">
+                    <img src="https://cdn2.iconfinder.com/data/icons/circle-avatars-1/128/050_girl_avatar_profile_woman_suit_student_officer-512.png"/>
+                </div>
+                <div className="hello">Hello,</div>
+                <div className="joko">Joko Husein</div>
+                <div className="boxes1">
+                    <div className="icon6"><FaCalendarAlt /></div>
+                </div>
+                <div className="boxes2">
+                    <div className="icon7"><IoMdNotificationsOutline /></div>
+                </div>
+                <div className="progress">On Progress (12)</div>
+                <div className="view1">View More</div>
+                <div className="ui">Design UI ToDo App </div>
+                <div className="july">Friday, 08 July 2022</div>
+                <div className="circle">
+                    <div className="icon8"></div>
+                </div>
+            </div>
         </div>
 
     )
